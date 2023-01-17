@@ -4,14 +4,6 @@ import React from "react";
 import { data } from "../../data";
 
 export default function Blog() {
-  const valueData = {
-    title: "Lorem ipsum ini judul",
-    description:
-      "Lorem ipsum ini judul bebas aja pokoknhya biar panjang angasd asdnxchasd sadjbasdbyasbasd",
-    date: "11 Januari 2023",
-    image: "/mdx-next.png",
-  };
-
   return (
     <Layout>
       <div className="mt-24">
